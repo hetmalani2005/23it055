@@ -1,0 +1,23 @@
+h1{
+ font-size: 50 px;
+ color:aqua;
+
+
+}
+
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+  .news
+  {
+    margin-bottom: 0;
+    color:aqua;
+    text-align: center;
+  }
+  div{
+
+  image-rendering: auto;
+  }
+ 
